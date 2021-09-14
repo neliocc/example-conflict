@@ -1,1 +1,1 @@
-# example-conflict
+# A remote repository
